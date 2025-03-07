@@ -1,0 +1,8 @@
+Ejercicio 1: Fácil - Alineación y Estilo Básico
+Objetivo: Practicar el uso de propiedades básicas de CSS como color, padding, margin, text-align, y background-color.
+
+Instrucciones:
+    Crear un encabezado con un color de fondo, y centrar el texto.
+    Crear un párrafo debajo del encabezado, y aplicarle un margen y padding.
+    Cambiar el color de fondo de la página.
+    Crear un botón que cambie de color cuando el cursor pase por encima de él.
