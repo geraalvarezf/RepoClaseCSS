@@ -1,43 +1,26 @@
-/* Reset básico */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-/* Estilos generales */
 body {
-    background-color: #f4f4f4;
-    font-family: Arial, sans-serif;
-}
-
-/* Encabezado */
-header {
-    background-color: #333;
-    color: white;
+    font-size: 20px;
+    background-color: rgb(155, 193, 185);
+    justify-content: center;
     text-align: center;
-    padding: 20px;
 }
-
-/* Párrafo */
-p {
-    padding: 20px;
-    margin: 20px;
-    background-color: #fff;
-    border-radius: 5px;
+header{
+    background-color: blanchedalmond;
+    border-radius: 10px;
 }
-
-/* Botón */
-button {
-    padding: 10px 20px;
-    background-color: #007BFF;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
+p{
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    background-color: blanchedalmond;
+    border-radius: 10px;
 }
-
-/* Efecto hover */
-button:hover {
-    background-color: #0056b3;
+button{
+    color: rgb(0, 0, 0);
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    
+}
+button:hover{
+    background-color: blue;
 }
